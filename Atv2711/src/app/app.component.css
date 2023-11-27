@@ -1,0 +1,41 @@
+
+h1 {
+    text-align: center;
+    color: rgb(184, 144, 223);
+    margin-bottom: 20px; 
+  }
+
+  img {
+    max-width: 100%;
+    height: 200px;
+    margin-right: 10px;
+    border-radius: 5px; 
+  }
+  
+  h4 {
+    font-size: 20px;
+    color: #ffffff;
+    margin-bottom: 5px; 
+  }
+  
+
+h2 {
+    color: rgb(252, 250, 250);
+    margin-bottom: 5px;
+  }
+  
+  .filme-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    background-color: rgb(10, 10, 10);
+    border: 5px solid rgb(140, 0, 255);
+    border-radius: 10px; 
+    padding: 10px; 
+  }
+
+  .texto {
+    color: #ffffff;
+    flex: 1; 
+  }
+  
